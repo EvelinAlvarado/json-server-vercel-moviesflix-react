@@ -16,14 +16,24 @@
       "colorPicker": "#00c86f"
     },
     {
-      "id": "4",
       "categoryName": "Thriller",
-      "colorPicker": "#6b5be2"
+      "colorPicker": "#6b5be2",
+      "id": "4"
     },
     {
       "id": "5",
       "categoryName": "Horror",
       "colorPicker": "#dc6ebe"
+    },
+    {
+      "categoryName": "Romantic",
+      "colorPicker": "#ca3f3f",
+      "id": "d5662862-510b-4aa6-9a13-5995da9bb8e3"
+    },
+    {
+      "categoryName": "Comedy",
+      "colorPicker": "#4e7a48",
+      "id": "ab864e2e-6ea4-435a-b3da-3a24d6b639a2"
     }
   ],
   "moviesData": [
@@ -66,16 +76,6 @@
       "category": "Action",
       "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTU0NTEzMTIzM15BMl5BanBnXkFtZTcwMDQxMzU1MQ@@._V1_FMjpg_UX550_.jpg",
       "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BNjExODU3ZjEtMzBjMy00YjY3LThlZGUtZGFjNmZjMTZlZmI3XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_FMjpg_UX1280_.jpg"
-    },
-    {
-      "id": "5",
-      "title": "Forrest Gump",
-      "synopsis": "The presidencies of Kennedy and Johnson, the Vietnam War, the Watergate scandal, and other historical events unfold from the perspective of an Alabama man with an IQ of 75.",
-      "releaseYear": "1994",
-      "duration": "2h 22min",
-      "category": "Drama",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BOWNmNzdjYjQtZjIyOS00MDhiLTg4ZWUtZGZkZDE4ZDQwZTY1XkEyXkFqcGdeQXVyODk2ODI3MTU@._V1_FMjpg_UX960_.jpg",
-      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMTZkY2NiZmUtMDViYS00ZWNmLTk5MzItZThjZGFmZWZmODU1XkEyXkFqcGdeQXVyNjI5Nzc0MTY@._V1_FMjpg_UX720_.jpg"
     },
     {
       "id": "6",
@@ -158,16 +158,6 @@
       "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BZWQ5NzBkZWYtMWMyYS00Nzg2LThhMTEtNTMxOTEwZjM2YTg1XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_FMjpg_UX1280_.jpg"
     },
     {
-      "id": "14",
-      "title": "Anatomy of a Fall",
-      "synopsis": "A woman is suspected of murder after her husband's death; their half-blind son faces a moral dilemma as the main witness.",
-      "releaseYear": "2023",
-      "duration": "2h 31min",
-      "category": "Thriller",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWU1NGVmOTAtZTQ2My00Mzg3LWIxNzEtYTQ5ZTU1OGRjM2UxXkEyXkFqcGdeQXVyMTY3ODkyNDkz._V1_FMjpg_UX355_.jpg",
-      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BZWRjNmRhZTEtNGIwNS00YTA5LTk0YzMtZmRhNmU2ODkwM2M2XkEyXkFqcGdeQXVyOTc5MDI5NjE@._V1_FMjpg_UX1280_.jpg"
-    },
-    {
       "id": "15",
       "title": "Parasite",
       "synopsis": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan.",
@@ -228,14 +218,47 @@
       "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMTYzNDc3NzYzOF5BMl5BanBnXkFtZTcwNjQzNTIwNA@@._V1_FMjpg_UX1280_.jpg"
     },
     {
-      "id": "21",
-      "title": "Memento",
-      "synopsis": "A man with short-term memory loss attempts to track down his wife's murderer.",
-      "releaseYear": "2000",
-      "duration": "1h 53min",
-      "category": "Thriller",
-      "posterUrl": "https://m.media-amazon.com/images/M/MV5BZTcyNjk1MjgtOWI3Mi00YzQwLWI5MTktMzY4ZmI2NDAyNzYzXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_FMjpg_UX1022_.jpg",
-      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BZmE2NTgxYTYtNTY1Yi00Yzg1LWI5NjctYTY1MjEwNTg0MzEzXkEyXkFqcGdeQXVyMTI3MDk3MzQ@._V1_FMjpg_UX1280_.jpg"
+      "id": "dc76d1d7-bb84-40d7-83b8-9513c1cd996d",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "releaseYear": "2001",
+      "duration": "2h 32m",
+      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMTkyMDM1NDA5MV5BMl5BanBnXkFtZTgwMzE0ODAxMTI@._V1_FMjpg_UX1280_.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNmQ0ODBhMjUtNDRhOC00MGQzLTk5MTAtZDliODg5NmU5MjZhXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_FMjpg_UY2902_.jpg",
+      "synopsis": "An orphaned boy enrolls in a school of wizardry, where he learns the truth about himself, his family and the terrible evil that haunts the magical world.",
+      "category": "Drama"
+    },
+    {
+      "id": "9fcaef20-d630-403a-b017-3dd236503654",
+      "title": "Masters of the Air",
+      "releaseYear": "2024",
+      "duration": "1 season",
+      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMDcwYjE3OGYtMzRlYy00YzcwLWJjMzAtMWFkMmVlODdhMGZlXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_FMjpg_UX1280_.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzgwNTI2YjAtMDM5Zi00MTAzLThkMmUtNTEyYWY1ODA2ZDdjXkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_FMjpg_UY3000_.jpg",
+      "synopsis": "During World War II, five miles above the ground and behind enemy lines, ten men inside an aluminum bomber known as a \"Flying Fortress\" battle antiaircraft fire and unrelenting flocks of German fighters.",
+      "category": "Serie",
+      "categoryName": "Serie"
+    },
+    {
+      "id": "492cd832-2555-439c-a4ec-85e584217851",
+      "title": "Band of Brothers",
+      "releaseYear": "2001",
+      "duration": "1 season",
+      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMjE4NTA1NTA5NV5BMl5BanBnXkFtZTgwOTQyMzY1MTE@._V1_FMjpg_UX2160_.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_FMjpg_UX485_.jpg",
+      "synopsis": "The story of Easy Company of the U.S. Army 101st Airborne Division and their mission in World War II Europe, from Operation Overlord to V-J Day.",
+      "category": "Serie",
+      "categoryName": "Serie"
+    },
+    {
+      "id": "9a8b121c-6163-4966-9dbc-df6015863495",
+      "title": "Chernobyl",
+      "releaseYear": "2019",
+      "duration": "1 season",
+      "backgroundImageUrl": "https://m.media-amazon.com/images/M/MV5BMDgyZDM3ZDQtMTUzNy00NjAxLWIwMDgtNWRmMzY4ZDdjOTA0XkEyXkFqcGdeQXVyMTIzMzg5NDU1._V1_FMjpg_UX1280_.jpg",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTdkN2QwMDItMDVhNS00ZjFiLWEzNTctMzY5ODQzYWNkMDllXkEyXkFqcGdeQXVyMTMzNDExODE5._V1_FMjpg_UY2250_.jpg",
+      "synopsis": "In April 1986, the city of Chernobyl in the Soviet Union suffers one of the worst nuclear disasters in the history of mankind. Consequently, many heroes put their lives on the line in the following days, weeks and months.",
+      "category": "Serie",
+      "categoryName": "Serie"
     }
   ]
 }
